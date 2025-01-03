@@ -7,7 +7,6 @@ Python Full Stack Developer | AWS Certified Developer
 Hi there! 👋 I’m Vignesh Ganesan, a passionate Python Full Stack Developer with a knack for creating efficient, scalable, and impactful applications. With a solid foundation in cloud technologies, validated by my AWS Certified Developer credential, I specialize in building end-to-end solutions that bridge seamless front-end experiences with powerful back-end architectures. I thrive in fast-paced environments, where I can leverage my problem-solving skills and technical expertise to contribute to innovative projects. Constant learning and adaptation are the cornerstones of my journey in tech.
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [NiftyFirst](http://niftyfirst.online)
 * ✉️  You can contact me at [vigne.sh@live.com](mailto:vigne.sh@live.com)
 * 🧠  I'm learning Advanced cloud architectures, machine learning with Python, and DevOps best practices.
 * 🤝  I'm open to collaborating on Full stack projects, cloud-native applications, and open-source contributions.
